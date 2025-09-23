@@ -1,2 +1,3 @@
-# snowy.to
-My Website (https://www.snowy.to)
+# My Website
+---
+So its kinda cool and stuff, pls check it 🙏
