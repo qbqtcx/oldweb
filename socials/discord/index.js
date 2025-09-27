@@ -7,3 +7,6 @@
   <title>`Snowy's Discord Server`</title>
   <meta http-equiv="refresh" content="0; url='https://discord/com/invite/4WrVQavKkA'"/>
 </head>
+<body>
+   <p>hello world</p>
+</body>
